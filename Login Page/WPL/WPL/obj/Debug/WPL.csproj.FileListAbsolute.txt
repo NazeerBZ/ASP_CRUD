@@ -1,0 +1,12 @@
+C:\Users\NazeerBZ\Desktop\ASPwork\WPL\WPL\bin\WPL.dll.config
+C:\Users\NazeerBZ\Desktop\ASPwork\WPL\WPL\bin\WPL.dll
+C:\Users\NazeerBZ\Desktop\ASPwork\WPL\WPL\bin\WPL.pdb
+C:\Users\NazeerBZ\Desktop\ASPwork\WPL\WPL\obj\Debug\WPL.csprojResolveAssemblyReference.cache
+C:\Users\NazeerBZ\Desktop\ASPwork\WPL\WPL\obj\Debug\WPL.dll
+C:\Users\NazeerBZ\Desktop\ASPwork\WPL\WPL\obj\Debug\WPL.pdb
+E:\4 Semester\Web programming\ASP Basic\Login Page\WPL\WPL\bin\WPL.dll.config
+E:\4 Semester\Web programming\ASP Basic\Login Page\WPL\WPL\bin\WPL.dll
+E:\4 Semester\Web programming\ASP Basic\Login Page\WPL\WPL\bin\WPL.pdb
+E:\4 Semester\Web programming\ASP Basic\Login Page\WPL\WPL\obj\Debug\WPL.csprojResolveAssemblyReference.cache
+E:\4 Semester\Web programming\ASP Basic\Login Page\WPL\WPL\obj\Debug\WPL.dll
+E:\4 Semester\Web programming\ASP Basic\Login Page\WPL\WPL\obj\Debug\WPL.pdb

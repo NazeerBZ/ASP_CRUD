@@ -1,0 +1,6 @@
+C:\Users\NazeerBZ\Desktop\check\Testing\Testing\bin\Testing.dll.config
+C:\Users\NazeerBZ\Desktop\check\Testing\Testing\bin\Testing.dll
+C:\Users\NazeerBZ\Desktop\check\Testing\Testing\bin\Testing.pdb
+C:\Users\NazeerBZ\Desktop\check\Testing\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\NazeerBZ\Desktop\check\Testing\Testing\obj\Debug\Testing.dll
+C:\Users\NazeerBZ\Desktop\check\Testing\Testing\obj\Debug\Testing.pdb
