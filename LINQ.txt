@@ -1,0 +1,73 @@
+<<<<<LINQ>>>>>
+
+(From c 
+in en.Student
+Select {c.Id, c.Name}).ToList();;
+
+(From c 
+in en.Student
+Select c.).ToList(); ; 
+
+(from c
+in en.Student
+Where c.Name == "Nazeer"
+select c
+).ToList();
+
+
+<<<Task1>>>
+
+  myDBEntities en = new TestWeb.myDBEntities();
+
+          var q = ( from c
+                in en.Students
+           where c.Id == 1002
+                select c
+                ).ToList();
+
+            foreach (var item in q)
+            {
+
+                TextBox1.Text = item.Id.ToString();
+                TextBox2.Text = item.Name;
+                break;
+
+            }
+
+            GridView1.DataSource = q;
+            GridView1.DataBind();
+
+
+<<<Task2>>>
+
+            myDBEntities en = new TestWeb.myDBEntities();
+
+
+            Student st = new Student();
+
+            st.Id = 1004;
+            st.Name = "Batista";
+            st.Father_Name = "Rock";
+            st.City = "Islamabad";
+            
+
+            en.Students.Add(st);
+            en.SaveChanges();
+            
+<<<Task3>>>
+
+ myDBEntities en = new TestWeb.myDBEntities();
+
+            var st = (
+
+                from c
+                in en.Students
+                select c
+                ).First();
+
+
+            st.Name = "Messi";
+            st.Father_Name = "Leo";
+            st.City = "Quetta";
+            
+            en.SaveChanges();
